@@ -6,7 +6,7 @@ import org.springframework.data.mongodb.repository.config.EnableMongoRepositorie
 
 @SpringBootApplication
 @EnableMongoRepositories(basePackages = {"br.com.coffeeandit.transactionsvc.repository"})
-public class TransactionSvcApplication {
+public class 	TransactionSvcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TransactionSvcApplication.class, args);
