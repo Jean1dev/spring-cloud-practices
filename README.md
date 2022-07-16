@@ -1,5 +1,5 @@
 # spring-cloud-practices
 
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://github.com/Jean1dev/spring-cloud-practices/images/archtecture.png" width="320" alt="Nest Logo" /></a>
+  <img src="https://raw.githubusercontent.com/Jean1dev/spring-cloud-practices/hexagonal-archtecture/images/archtecture.png" width="320" alt="Projeti" />
 </p>
